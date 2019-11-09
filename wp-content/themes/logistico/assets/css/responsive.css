@@ -1,0 +1,107 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 1199px)  { 
+
+}
+@media (max-width: 991px)  { 
+	.logistic-footer-column_four .logistico-footer-widget {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 50px;
+    }
+    p.lgtico-copywright {
+        display: inline-block;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    header#masthead {
+        padding: 20px 0;
+    }
+    .lgtico-input-item {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 100%;
+    }
+
+    .menu-toggle {
+        display: block;
+    }
+    .site-header-menu {
+        display: none;
+    }
+    .site-header-menu.toggled-on, .no-js .site-header-menu {
+        display: block;
+    }
+    .lgtico-menu ul li {
+        display: block;
+        float: none;
+        margin: 0 !important;
+        border-top: 1px solid #d1d1d1;
+    }
+    .lgtico-menu ul li a {
+        padding: 5px 0 5px 0;
+        display: inline-block;
+    }
+    .main-navigation .menu-item-has-children > a:after {
+        opacity: 0;
+    }
+    .dropdown-toggle {
+        display: inline-block;
+    }
+    .lgtico-nav-wrap {
+        width: 100%;
+    }
+    .lgtico-menu ul li a {
+        display: block;
+        margin-right: 48px;
+        font-size: 1rem;
+    }
+    .main-navigation .primary-menu {
+        border-bottom: 1px solid #d1d1d1;
+    }
+    .site-branding {
+        width: 100%;
+    }
+    .main-navigation {
+        margin-top: 40px;
+    }
+    .main-navigation ul ul {
+        display: none;
+    }
+    .main-navigation ul ul {
+        box-shadow: none;
+        position: relative;
+        top: 0;
+        z-index: 99999;
+        visibility: visible;
+        opacity: 1;
+        display: none;
+        margin-left: 0.875em;
+    }
+    .main-navigation ul .toggled-on {
+        display: block;
+    }
+    .main-navigation ul ul li:hover > ul, 
+    .main-navigation ul ul li.focus > ul {
+        left: inherit;
+    }
+    .main-navigation ul ul a {
+        width: inherit;
+    }
+    .main-navigation ul ul ul {
+        left: inherit;
+        top: inherit;
+    }
+    .lgtico-menu ul li ul {
+        padding: 0;
+    }
+    .lgtico-menu ul li ul li a,
+    .lgtico-menu ul li a {
+        padding: 8px 0 8px 0;
+    }
+}
+
+@media (max-width: 767px)  { 
+	.bootstrap-wrapper {
+        overflow: hidden;
+    }
+}

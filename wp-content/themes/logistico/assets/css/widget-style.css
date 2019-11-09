@@ -1,0 +1,104 @@
+.single-repater-title {
+  background-color: #FAFAFA;
+  border: 1px solid #ccc;
+  padding: 12px;
+  font-weight: 600;
+  margin: 15px 0 0;
+  cursor: pointer;
+  position: relative;
+}
+.single-repater-content input {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  margin-left: 0;
+}
+a.button.logistico-widget-add-item {
+  margin: 15px 0 15px;
+}
+.single-repater-content {
+  padding: 25px 15px 14px;
+  border-right: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  border-left: 1px solid #eee;
+  background-color: #f5f5f5;
+  display: none;
+}
+.single-repater-title::after {
+  content: "\f140";
+  font: 400 20px/1 dashicons;
+  speak: none;
+  display: block;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-decoration: none!important;
+  float: right;
+  position: relative;
+  top: -2px;
+}
+.repater_open.single-repater-title::after {
+  content: "\f142";
+}
+.single-widget-uploader img {
+  max-width: 100%;
+  margin-bottom: 15px;
+  width: auto;
+}
+.default_repater_open.single-repater-content {
+  display: block;
+}
+button.sl-widget-media-remove.button {
+  display: none;
+  margin-left: 5px;
+}
+.repeater-thumb-wrap {
+  width: 101px;
+  text-align: center;
+}
+.repeater-thumb-wrap img {
+  width: auto;
+  display: inline-block;
+  max-width: 100%;;
+}
+
+
+
+
+.themify-icon-list-wrap li {
+  display: inline-block;
+  width: calc(10% - 5.2px);
+  border: 1px solid #eee;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  transition: all 0.4s;
+  font-size: 20px;
+  cursor: pointer;
+}
+.themify-icon-search input[type="text"] {
+  width: 100%;
+  display: block;
+  padding: 17px 20px;
+  margin: 15px 0 18px;
+}
+.themify-icon-list-wrap li:hover,
+.themify-icon-list-wrap li:focus,
+.themify-icon-list-wrap li:active,
+.themify-icon-list-wrap li.active_fa {
+  background-color: #444;
+  color:  #fff;
+}
+.themify-icon-list-wrap li.hidden {
+  display: none;
+}
+button.fa_tb_close.button-primary {
+  position: absolute;
+  bottom: 16px;
+}
+
+body.widgets-php #TB_window.pixiefy-TB_window {
+  width: auto !important;
+}
+body.widgets-php #TB_window.pixiefy-TB_window #TB_ajaxContent {
+  width: 750px !important;
+}

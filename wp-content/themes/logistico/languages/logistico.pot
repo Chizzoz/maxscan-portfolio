@@ -1,0 +1,1033 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Logistico\n"
+"POT-Creation-Date: 2019-06-01 10:13+0600\n"
+"PO-Revision-Date: 2019-06-01 10:13+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:18 inc/class-logistico-breadcrumb.php:34
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:48
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:64
+msgid "Primary"
+msgstr ""
+
+#: functions.php:65
+msgid "Footer"
+msgstr ""
+
+#: functions.php:132
+msgid "shark"
+msgstr ""
+
+#: functions.php:137
+msgid "coral red"
+msgstr ""
+
+#: functions.php:142
+msgid "aztec"
+msgstr ""
+
+#: functions.php:147
+msgid "very light gray"
+msgstr ""
+
+#: functions.php:152
+msgid "dove gray"
+msgstr ""
+
+#: functions.php:157
+msgid "manatee"
+msgstr ""
+
+#. translators: search result
+#. translators: %s: search query.
+#: inc/class-logistico-breadcrumb.php:48 search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. translators: %1$s is Author name wrapped, %2$s is Date
+#: inc/class-logistico-breadcrumb.php:107
+#, php-format
+msgid "Published by %1$s on %2$s"
+msgstr ""
+
+#: inc/customizer/logistico-customizer-sanitize.php:27
+msgid "Fullwidth Layout"
+msgstr ""
+
+#: inc/customizer/logistico-customizer-sanitize.php:28
+#: inc/customizer/logistico-general-panel.php:93
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer/logistico-customizer-sanitize.php:44
+#: inc/customizer/logistico-footer-panel.php:65
+#: inc/customizer/logistico-layout-panel.php:240
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/logistico-customizer-sanitize.php:45
+#: inc/customizer/logistico-footer-panel.php:66
+#: inc/customizer/logistico-layout-panel.php:241
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:25
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:37
+msgid "Widget Area"
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:61
+msgid "Footer Widget Section"
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:62
+msgid "Show/Hide option for footer widget area section."
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:91
+msgid "Footer Widget Layout"
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:92
+msgid "Choose layout from available layouts"
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:97
+msgid "Columns Four"
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:101
+msgid "Columns Three"
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:105
+msgid "Columns Two"
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:109
+msgid "Column One"
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:132
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:153
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:174
+msgid "Footer Anchor Color"
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:189
+msgid "Bottom Section"
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:203
+msgid "logistico"
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:212
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:239
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:259
+msgid "Footer Bottom Text Color"
+msgstr ""
+
+#: inc/customizer/logistico-footer-panel.php:279
+msgid "Footer Bottom Anchor Color"
+msgstr ""
+
+#: inc/customizer/logistico-general-panel.php:38
+#: inc/customizer/logistico-header-panel.php:38
+#: inc/customizer/logistico-header-panel.php:59
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer/logistico-general-panel.php:55
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/logistico-general-panel.php:69
+msgid "Website Layout"
+msgstr ""
+
+#: inc/customizer/logistico-general-panel.php:70
+msgid "Choose a site to display your website more effectively."
+msgstr ""
+
+#: inc/customizer/logistico-general-panel.php:89
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/logistico-general-panel.php:92
+msgid "FullWidth Layout"
+msgstr ""
+
+#: inc/customizer/logistico-header-panel.php:22
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/logistico-header-panel.php:27
+msgid "Header Background Image"
+msgstr ""
+
+#: inc/customizer/logistico-header-panel.php:39
+msgid "Choose Header Background Color."
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:27
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:39
+msgid "Archive/Blog Settings"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:61
+msgid "Archive Sidebars"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:62
+#: inc/customizer/logistico-layout-panel.php:145
+#: inc/customizer/logistico-layout-panel.php:197
+msgid "Choose sidebar from available layouts"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:66
+#: inc/customizer/logistico-layout-panel.php:149
+#: inc/customizer/logistico-layout-panel.php:201
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:70
+#: inc/customizer/logistico-layout-panel.php:153
+#: inc/customizer/logistico-layout-panel.php:205
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:74
+#: inc/customizer/logistico-layout-panel.php:157
+#: inc/customizer/logistico-layout-panel.php:209
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:91 inc/template-tags.php:51
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:100
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:101
+msgid "Enter read more button text for archive page."
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:122
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:144
+msgid "Page Sidebars"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:174
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:196
+msgid "Post Sidebars"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:236
+msgid "Related Post Option"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:237
+msgid "Show/Hide option for related posts section at single post page."
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:256 inc/hooks/single-hooks.php:13
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:265
+msgid "Related Post Section Title"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:292
+msgid "Select Related Post Type"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:294
+msgid "Select whish taxonomy you want to fetch related post"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:296
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/logistico-layout-panel.php:297
+msgid "Tag"
+msgstr ""
+
+#: inc/hooks/single-hooks.php:40
+msgid "Sorry, no similar posts found."
+msgstr ""
+
+#: inc/template-functions.php:55
+msgid "Sidebar"
+msgstr ""
+
+#: inc/template-functions.php:57 inc/template-functions.php:69
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/template-functions.php:67
+msgid "Footer Widget Area"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Muli, translate this to 'off'. Do not translate into your own language.
+#: inc/template-functions.php:217
+msgctxt "Muli font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Muli, translate this to 'off'. Do not translate into your own language.
+#: inc/template-functions.php:222
+msgctxt "Saira Condensed font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:66
+msgid ", "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:68
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:72
+msgid "Posted in"
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:75
+msgid "Tagged"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:87 template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/widgets/class-logisticoabout.php:19
+msgid "Logistico About"
+msgstr ""
+
+#: inc/widgets/class-logisticoabout.php:20
+msgid "Display Footer Short About Info"
+msgstr ""
+
+#: inc/widgets/class-logisticoabout.php:148
+msgid "Search themify icon"
+msgstr ""
+
+#: inc/widgets/class-logisticoabout.php:162
+msgid "Insert Icon"
+msgstr ""
+
+#: inc/widgets/class-logisticoabout.php:170
+msgid "Upload image"
+msgstr ""
+
+#: inc/widgets/class-logisticoabout.php:172
+#: inc/widgets/class-logisticocontacts.php:201
+msgid "Remove image"
+msgstr ""
+
+#: inc/widgets/class-logisticoabout.php:182
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/class-logisticoabout.php:185
+#: inc/widgets/class-logisticoabout.php:221
+msgid "Social Page Url"
+msgstr ""
+
+#: inc/widgets/class-logisticoabout.php:196
+#: inc/widgets/class-logisticocontacts.php:45
+#: inc/widgets/class-logisticocontacts.php:187
+msgid "Item"
+msgstr ""
+
+#: inc/widgets/class-logisticoabout.php:212
+#: inc/widgets/class-logisticocontacts.php:41
+#: inc/widgets/class-logisticocontacts.php:199
+msgid "Select an Icon"
+msgstr ""
+
+#: inc/widgets/class-logisticoabout.php:223
+#: inc/widgets/class-logisticocontacts.php:46
+#: inc/widgets/class-logisticocontacts.php:212
+msgid "Delete"
+msgstr ""
+
+#: inc/widgets/class-logisticoabout.php:232
+msgid "Add Social Link"
+msgstr ""
+
+#: inc/widgets/class-logisticocontacts.php:21
+msgid "Logistico Contacts"
+msgstr ""
+
+#: inc/widgets/class-logisticocontacts.php:22
+msgid "Display Contact information"
+msgstr ""
+
+#: inc/widgets/class-logisticocontacts.php:42
+msgid "Upload Thumbnail"
+msgstr ""
+
+#: inc/widgets/class-logisticocontacts.php:43
+msgid "Select Image"
+msgstr ""
+
+#: inc/widgets/class-logisticocontacts.php:44
+msgid "Remove Image"
+msgstr ""
+
+#: inc/widgets/class-logisticocontacts.php:173
+#: inc/widgets/class-logisticorecentpost.php:114
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/class-logisticocontacts.php:176
+#: inc/widgets/class-logisticocontacts.php:209
+#: inc/widgets/class-logisticocontacts.php:210
+msgid "Info Title"
+msgstr ""
+
+#: inc/widgets/class-logisticocontacts.php:176
+msgid "Sub Title"
+msgstr ""
+
+#: inc/widgets/class-logisticocontacts.php:221
+msgid "Add Info"
+msgstr ""
+
+#: inc/widgets/class-logisticorecentpost.php:20
+msgid "Logistico Posts"
+msgstr ""
+
+#: inc/widgets/class-logisticorecentpost.php:21
+msgid "Display Recent Posts"
+msgstr ""
+
+#: inc/widgets/class-logisticorecentpost.php:76
+msgid "Sorry, no posts found."
+msgstr ""
+
+#: inc/widgets/class-logisticorecentpost.php:110
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/class-logisticorecentpost.php:118
+msgid "Post Per Page:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: lib/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: lib/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:386
+#: lib/class-tgm-plugin-activation.php:827
+#: lib/class-tgm-plugin-activation.php:2533
+#: lib/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:387
+#: lib/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:388
+#: lib/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: lib/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:934
+#: lib/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1121
+#: lib/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: lib/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: lib/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: lib/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3509
+#: lib/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3509
+#: lib/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:36
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:24 template-parts/content.php:72
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:58
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Logistico"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Logistico WordPress Theme is made for logistic services, transportation "
+"companies, packers and movers, corporate businesses, online companies in "
+"mind. It can fit as a small company website as well as a medium size "
+"business site. Logistico is fantastically designed to suit any blog/news or "
+"as a e-commerce website with WooCommerce. It is equiped with Elementor page "
+"builder and Themepaw Companion to make it more flexible and robust. Cross "
+"browser supported and Full responsive design to fit into any display sized "
+"devices and mobiles.  WPML ready and 100% SEO friendly code can boost your "
+"site with Logistico WordPress Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "themepaw.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themepaw.com/"
+msgstr ""
