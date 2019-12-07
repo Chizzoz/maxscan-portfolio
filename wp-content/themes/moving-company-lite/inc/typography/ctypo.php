@@ -42,7 +42,7 @@ function moving_company_lite_typography_customize_register( $wp_customize ) {
 	);
 
   	$wp_customize->add_setting( 'moving_company_lite_first_color', array(
-	    'default' => '#14b5f0',
+	    'default' => '#f8951d',
 	    'sanitize_callback' => 'sanitize_hex_color'
   	));
   	$wp_customize->add_control( new WP_Customize_Color_Control( $wp_customize, 'moving_company_lite_first_color', array(
@@ -53,7 +53,7 @@ function moving_company_lite_typography_customize_register( $wp_customize ) {
   	)));
 
   	$wp_customize->add_setting( 'moving_company_lite_second_color', array(
-	    'default' => '#0c3c8e',
+	    'default' => '#6ac3e9',
 	    'sanitize_callback' => 'sanitize_hex_color'
   	));
   	$wp_customize->add_control( new WP_Customize_Color_Control( $wp_customize, 'moving_company_lite_second_color', array(

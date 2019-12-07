@@ -327,11 +327,11 @@ define('MOVING_COMPANY_LITE_FAQ','https://www.vwthemes.com/faqs/','moving-compan
 define('MOVING_COMPANY_LITE_CONTACT','https://www.vwthemes.com/contact/','moving-company-lite');
 define('MOVING_COMPANY_LITE_CHILD_THEME','https://developer.wordpress.org/themes/advanced-topics/child-themes/','moving-company-lite');
 
-define('MOVING_COMPANY_LITE_CREDIT','https://www.vwthemes.com/themes/free-moving-company-wordpress-theme/','moving-company-lite');
+define('MOVING_COMPANY_LITE_CREDIT','https://ms.oneziko.com/','moving-company-lite');
 
 if ( ! function_exists( 'moving_company_lite_credit' ) ) {
 	function moving_company_lite_credit(){
-		echo "<a href=".esc_url(MOVING_COMPANY_LITE_CREDIT).">".esc_html__('Moving Company WordPress Theme','moving-company-lite')."</a>";
+		echo "<a href=".esc_url(MOVING_COMPANY_LITE_CREDIT).">".esc_html__('MAXSCAN CONSULTANCY','moving-company-lite')."</a>";
 	}
 }
 
