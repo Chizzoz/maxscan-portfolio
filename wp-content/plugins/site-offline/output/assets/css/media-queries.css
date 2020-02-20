@@ -1,0 +1,72 @@
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+	.show-menu, .hide-menu { right: 30px; }
+	
+	.top-content h1, .top-content .description { padding: 0 40px; }
+	
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+	.section-description p { padding: 0; }
+
+	.top-content h1, .top-content .description { padding: 0 40px; }
+	
+	.timer .days-wrapper, .timer .hours-wrapper, .timer .minutes-wrapper, .timer .seconds-wrapper { width: 145px; }
+
+}
+
+@media (max-width: 991px) {
+
+	.show-menu { right: 30px; }
+	.hide-menu { position: static; top: auto; right: auto; z-index: auto; }
+	.hide-menu a { height: 42px; padding-top: 0; }
+
+}
+
+@media (max-width: 767px) {
+	
+	.section-description p { padding: 0; }
+    
+    .top-content h1, .top-content .description { padding: 0; }
+    
+    .timer .days-wrapper, .timer .hours-wrapper, .timer .minutes-wrapper, .timer .seconds-wrapper { width: 145px; }
+	.timer .slash { display: none; }
+	
+	.subscribe form input.subscribe-email, .subscribe form button { width: 95%; }
+	.subscribe form input.subscribe-email { margin-left: auto; margin-right: auto; }
+
+	.contact-form, .contact-address { text-align: center; }
+	.contact-form form input, .contact-form form textarea { margin-left: auto; margin-right: auto; }
+	
+	footer, .footer-copyright { text-align: center; }
+	.footer-copyright { padding-bottom: 15px; }
+
+}
+
+@media (max-width: 415px) {
+	
+	h1, h2 { font-size: 32px; }
+
+	.show-menu { right: 10px; }
+
+}
+
+
+/* Retina-ize images/icons */
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+	
+	/* logo */
+    .top-content .logo a {
+    	background-image: url(../img/logo_2x.png) !important; background-repeat: no-repeat !important; background-size: 180px 82px !important;
+    }
+	
+}
